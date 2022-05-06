@@ -10,7 +10,7 @@ Using some of these images, a training and holdout set were created and is conta
 
 ## In this repository...
 
-I have the the training/testing data and a Rmarkdown and pdf of my final report. This was a final school project in a graduate-level UVA data mining course.
+I have the the sample of the data (full dataset was much too large to include here!) and a Rmarkdown and pdf of my final report. This was a final school project in a graduate-level UVA data mining course.
 
 In my report, I train and test several machine learning algorithms in a classification problem to predict blue tarps in images. The report includes the testing of these methods: Logistic Regression, Ridge Regression, KNN, Linear Discriminant Analysis, Quadratic Discriminant Anaylsis, Random Forests, and various flavors of Support Vector Machines (linear, quadratic, and radial kernels). I generated a PDF from my Rmarkdown containing my code and a narrative with figures as I walk through my thought process of this project step-by-step.
 
