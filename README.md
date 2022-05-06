@@ -1,4 +1,4 @@
-# Haiti_Earthquake_2010
+# Haiti Earthquake 2010 Analytical Project
 
 In 2010, disaster struck Haiti. A dangerous earthquake killed an estimated 100,000-300,000 people. 
 
@@ -6,7 +6,9 @@ As part of the rescue effort, a team from the Rochester Institute of Technology 
 
 Using some of these images, a training and holdout set were created and is contained in this repository. Some of these images are shown below.
 
-In this repository, I train and test several machine learning algorithms in a classification problem to predict blue tarps in images. The report includes the testing of these methods: Logistic Regression, Ridge Regression, KNN, Linear Discriminant Analysis, Quadratic Discriminant Anaylsis, Random Forests, and various flavors of Support Vector Machines (linear, quadratic, and radial kernels). I generated a PDF from my Rmarkdown containing my code and a narrative with figures as I walk through this project.
+## In this repository...
+
+I train and test several machine learning algorithms in a classification problem to predict blue tarps in images. The report includes the testing of these methods: Logistic Regression, Ridge Regression, KNN, Linear Discriminant Analysis, Quadratic Discriminant Anaylsis, Random Forests, and various flavors of Support Vector Machines (linear, quadratic, and radial kernels). I generated a PDF from my Rmarkdown containing my code and a narrative with figures as I walk through this project.
 
 This repository contains the training/testing data and a Rmarkdown and pdf of my final report. This was a final school project in a graduate-level UVA data mining course.
 
