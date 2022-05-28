@@ -1,4 +1,4 @@
-# Haiti Earthquake 2010 Analytical Project
+# Haiti Earthquake Image Recognition
 
 In 2010, disaster struck Haiti. A dangerous earthquake killed an estimated 100,000-300,000 people. 
 
